@@ -1,4 +1,5 @@
-data.json
+.streamlit/secrets.toml
+venv/
 __pycache__/
 *.pyc
-venv/
+data.json
